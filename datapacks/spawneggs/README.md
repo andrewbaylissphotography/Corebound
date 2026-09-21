@@ -2,13 +2,13 @@
 
 allows the player to get spawn eggs for spefic mobs at a 0.5% chance or 200 slays of that mob
     List of mobs supported:
-    -ZOMBIE,
-    -SKELETON,
-    -SPIDER,
-    -CAVE SPIDER,
-    -SILVERFISH,
-    -BLAZE,
-    -MAGMA CUBE
+    ZOMBIE,
+    SKELETON,
+    SPIDER,
+    CAVE SPIDER,
+    SILVERFISH,
+    BLAZE,
+    MAGMA CUBE
 
 ## Development Notes
 Some ideas and programming assistance were generated with the help of AI tools (ChatGPT) for briainstorming and function logic. All code was tested, intergrated and reviewed manually. 

@@ -1,5 +1,10 @@
 # CoreBound Vibe Check Leaderboard
 
+allows players to roll for a vibecheck. broadcast result and pushed to leaderboard in chat and a text display
+ 
+`trigger vibecheck`
+`trigger vibeleaderboard`
+
 ## Development Notes
 Some ideas and programming assistance were generated with the help of AI tools (ChatGPT) for briainstorming and function logic. All code was tested, intergrated and reviewed manually. 
 
