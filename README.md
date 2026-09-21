@@ -1,5 +1,10 @@
 # CoreBound
-A vanilla Minecraft server built from 1.21.9 - The Copper Age with datapacks, custom systems, and server-wide effects.
+
+CoreBound adds to Minecraft; it does not replace Minecraft.
+
+CoreBound is designed around vanilla Minecraft's existing items, mechanics, progression and world. New systems should enhance or extend those mechanics rather than requiring players to learn an entirely separate RPG or modded progression system.
+
+CoreBound should add possibilities, not invalidate vanilla knowledge.
 
 ## Resource Pack
 there is a resource pack that is required otherwise items will show as a black and purple checked block (no texture)
