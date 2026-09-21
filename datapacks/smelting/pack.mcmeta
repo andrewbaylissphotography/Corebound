@@ -1,21 +1,22 @@
 {
-	"pack": {
-		"pack_format": 48,
-		"supported_formats": {
-			"min_inclusive": 48,
-			"max_inclusive": 101
-		},
-		"description": [
-			{
-				"text": "CoreBound:Smelting",
-				"color": "gold"
-			},
-			{
-				"text": "\ngithub.com/andrewbaylissphotography/MC-1.21.9",
-				"color": "yellow"
-			}
-		],
-		"min_format": 48,
-		"max_format": 101
-	}
+    "pack": {
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 101
+        },
+        "description": [
+            {
+                "text": "CoreBound:Smelting",
+                "color": "gold"
+            },
+            {
+                "text": "\nhttps://github.com/andrewbaylissphotography/Corebound",
+                "color": "yellow"
+            }
+        ],
+        "min_format": 48,
+        "max_format": 101
+    },
+    "required_resourcepack": "corebound_rp"
 }

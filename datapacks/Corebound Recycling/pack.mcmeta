@@ -9,5 +9,6 @@
             1
         ],
         "max_format": 121
-    }
+    },
+    "required_resourcepack": "corebound_rp"
 }
