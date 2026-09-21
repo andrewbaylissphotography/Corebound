@@ -18,52 +18,58 @@ ServerEvents.tags('item', event => {
     'minecraft:leather_leggings',
     'minecraft:leather_boots',
 
-    // Storage blocks - smelt raw blocks
+    // Corebound Smelting
     'minecraft:copper_block',
     'minecraft:iron_block',
     'minecraft:gold_block',
-
-    // cook rotten flesh
     'minecraft:leather',
 
-    // echo_shard now act as magnets. find or craft
+    //Corebound Magnet
     'minecraft:echo_shard',
 
-    // recycling items to their metal components
+    // Corebound Recycling
     'minecraft:iron_ingot',
     'minecraft:gold_ingot',
+    'minecraft:copper_ingot',
     'minecraft:iron_nugget',
+    'minecraft:gold_nugget',
+    'minecraft:copper_nugget',
 
-    // unpackables - uncompress items back into their source
+    // Corebound Unpackables
     'minecraft:nether_wart',
 
-    // upgrade to Diamond tools - use the smithing table with diamond block, book and iron tool
+    // Corebound Upgrades
     'minecraft:diamond_shovel',
     'minecraft:diamond_pickaxe',
     'minecraft:diamond_axe',
     'minecraft:diamond_hoe',
     'minecraft:diamond_sword',
-
-    // upgrade to Diamond armor - use the smithing table with diamond block, book and iron armour
     'minecraft:diamond_helmet',
     'minecraft:diamond_chestplate',
     'minecraft:diamond_leggings',
     'minecraft:diamond_boots',
-    'minecraft:diamond_horse_armor',
 
-    // upgrade to iron tools - use the smithing table with iron block, book and golden tool
     'minecraft:iron_shovel',
     'minecraft:iron_pickaxe',
     'minecraft:iron_axe',
     'minecraft:iron_hoe',
     'minecraft:iron_sword',
-
-    // upgrade to iron armor - use the smithing table with iron block, book and golden armour
     'minecraft:iron_helmet',
     'minecraft:iron_chestplate',
     'minecraft:iron_leggings',
     'minecraft:iron_boots',
-    'minecraft:iron_horse_armor',
+    'minecraft:iron_chain',
+
+    'minecraft:copper_shovel',
+    'minecraft:copper_pickaxe',
+    'minecraft:copper_axe',
+    'minecraft:copper_hoe',
+    'minecraft:copper_sword',
+    'minecraft:copper_helmet',
+    'minecraft:copper_chestplate',
+    'minecraft:copper_leggings',
+    'minecraft:copper_boots',
+    'minecraft:copper_chain',
 
   ]
 
