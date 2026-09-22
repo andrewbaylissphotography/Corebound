@@ -1,5 +1,8 @@
 # CoreBound Quality Tiers
 
+![Minecraft](https://img.shields.io/badge/Minecraft%20Java-1.21--26.3-62B47A?logo=minecraft&logoColor=white)
+![Datapack](https://img.shields.io/badge/Type-Datapack-blue)
+
 adds 4 quality tiers
 Uncommon, Rare, Epic and Legendary.
 

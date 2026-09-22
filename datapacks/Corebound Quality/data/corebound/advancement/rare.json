@@ -1,23 +1,27 @@
 {
-	"display": {
-		"icon": {
-			"id": "minecraft:netherite_upgrade_smithing_template"
-		},
-		"title": "RARE",
-		"description": [
-			"",
-			{
-				"text": "got a RARE item.",
-				"color": "green"
-			}
-		],
-		"show_toast": false,
-		"announce_to_chat": false
-	},
-	"parent": "corebound:quality",
-	"criteria": {
-		"tick": {
-			"trigger": "minecraft:tick"
-		}
-	}
+    "display": {
+        "icon": {
+            "id": "minecraft:blue_stained_glass_pane",
+            "components": {}
+        },
+        "title": "RARE",
+        "description": [
+            "",
+            {
+                "text": "got a RARE item.",
+                "color": "green"
+            }
+        ],
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "task",
+        "hidden": false
+    },
+    "parent": "corebound:quality",
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "sends_telemetry_event": false
 }
