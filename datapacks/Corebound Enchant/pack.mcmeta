@@ -1,12 +1,25 @@
 {
     "pack": {
-        "description": "",
-        "pack_format": 48,
-        "supported_formats": {
-            "min_inclusive": 48,
-            "max_inclusive": 107
-        },
+        "description": [
+            {
+                "text": "CoreBound:Enchanting",
+                "color": "gold"
+            },
+            {
+                "text": "\nhttps://github.com/andrewbaylissphotography/Corebound",
+                "color": "yellow"
+            }
+        ],
         "min_format": 48,
-        "max_format": [107, 1]
+        "max_format": 121
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "26.3",
+                "min_format": 121,
+                "max_format": 121
+            }
+        ]
     }
 }
