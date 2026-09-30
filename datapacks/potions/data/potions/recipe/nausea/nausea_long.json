@@ -1,0 +1,39 @@
+{
+    "type": "minecraft:brewing",
+    "input": {
+        "item": "minecraft:potion",
+        "potion_contents": {
+            "effects": {
+                "contains": [
+                    { "minecraft:nausea": { "amplifier": 0} }
+                ]
+            }
+        }
+    },
+    "output": {
+        "id": "minecraft:potion",
+        "components": {
+            "minecraft:potion_contents": {
+                "custom_effects": [
+                    {
+                        "id": "minecraft:nausea",
+                        "duration": 9600,
+                        "amplifier": 0,
+                        "show_icon": true,
+                        "ambient": false
+                    }
+                ]
+            },
+            "minecraft:custom_name": {
+                "text": "Potion of Nausea Extended",
+                "color": "yellow",
+                "italic": false
+            },
+            "minecraft:max_stack_size": 64,
+            "minecraft:lore": [
+                { "text": "#CoreBound", "color": "gray"}
+            ]
+        }
+    },
+    "reagent": { "item": "minecraft:redstone" }
+}

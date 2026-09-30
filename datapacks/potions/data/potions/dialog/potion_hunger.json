@@ -1,0 +1,382 @@
+{
+  "type": "minecraft:notice",
+  "title": {
+    "text": "Recipe Book: Potions > Hunger"
+  },
+  "external_title": "Hunger",
+  "body": [
+    {
+      "type": "minecraft:item",
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "components": {
+          "minecraft:potion_contents": {
+            "potion": "minecraft:water"
+          }
+        }
+      },
+      "description": {
+        "contents": {
+          "text": "Water Bottle",
+          "color": "white",
+          "bold": true
+        },
+        "width": 200
+      },
+      "show_decorations": false,
+      "show_tooltip": true,
+      "width": 32,
+      "height": 16
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "+",
+        "color": "white",
+        "bold": true
+      },
+      "width": 200
+    },
+    {
+      "type": "minecraft:item",
+      "item": {
+        "id": "minecraft:rotten_flesh",
+        "count": 1
+      },
+      "description": {
+        "contents": {
+          "text": "Rotten Flesh",
+          "color": "gold",
+          "bold": true
+        },
+        "width": 200
+      },
+      "show_decorations": false,
+      "show_tooltip": true,
+      "width": 32,
+      "height": 16
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "↓",
+        "color": "white",
+        "bold": true
+      },
+      "width": 200
+    },
+    {
+      "type": "minecraft:item",
+      "item": {
+        "id": "minecraft:potion",
+        "count": 1,
+        "components": {
+          "minecraft:potion_contents": {
+            "custom_effects": [
+              {
+                "id": "minecraft:hunger",
+                "duration": 3600,
+                "amplifier": 0,
+                "show_icon": true,
+                "ambient": false
+              }
+            ]
+          },
+          "minecraft:custom_name": {
+            "text": "Potion of Hunger",
+            "color": "yellow",
+            "italic": false
+          },
+          "minecraft:max_stack_size": 64,
+          "minecraft:lore": [
+            {
+              "text": "#CoreBound",
+              "color": "gray"
+            }
+          ]
+        }
+      },
+      "description": {
+        "contents": {
+          "text": "Potion of Hunger",
+          "color": "yellow",
+          "bold": true
+        },
+        "width": 200
+      },
+      "show_decorations": false,
+      "show_tooltip": true,
+      "width": 32,
+      "height": 16
+    },
+    {
+      "type": "minecraft:plain_message",
+      "contents": {
+        "text": "────────────────────",
+        "color": "gray"
+      },
+      "width": 200
+    },
+{
+  "type": "minecraft:item",
+  "item": {
+    "id": "minecraft:potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:hunger",
+            "duration": 9600,
+            "amplifier": 0,
+            "show_icon": true,
+            "ambient": false
+          }
+        ]
+      },
+      "minecraft:custom_name": {
+        "text": "Potion of Hunger Extended",
+        "color": "yellow",
+        "italic": false
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:lore": [
+        {
+          "text": "#CoreBound",
+          "color": "gray"
+        }
+      ]
+    }
+  },
+  "description": {
+    "contents": {
+      "text": "Potion of Hunger Extended = ",
+      "color": "yellow",
+      "bold": true,
+      "extra": [
+        {
+          "text": "Potion of Hunger",
+          "color": "yellow",
+          "bold": true
+        },
+        {
+          "text": " + ",
+          "color": "white",
+          "bold": true
+        },
+        {
+          "text": "Redstone Dust",
+          "color": "red",
+          "bold": true
+        }
+      ]
+    },
+    "width": 500
+  },
+  "show_decorations": false,
+  "show_tooltip": true,
+  "width": 32,
+  "height": 16
+},
+{
+  "type": "minecraft:item",
+  "item": {
+    "id": "minecraft:potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:hunger",
+            "duration": 1800,
+            "amplifier": 1,
+            "show_icon": true,
+            "ambient": false
+          }
+        ]
+      },
+      "minecraft:custom_name": {
+        "text": "Potion of Hunger II",
+        "color": "yellow",
+        "italic": false
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:lore": [
+        {
+          "text": "#CoreBound",
+          "color": "gray"
+        }
+      ]
+    }
+  },
+  "description": {
+    "contents": {
+      "text": "Potion of Hunger II = ",
+      "color": "yellow",
+      "bold": true,
+      "extra": [
+        {
+          "text": "Potion of Hunger",
+          "color": "yellow",
+          "bold": true
+        },
+        {
+          "text": " + ",
+          "color": "white",
+          "bold": true
+        },
+        {
+          "text": "Glowstone Dust",
+          "color": "yellow",
+          "bold": true
+        }
+      ]
+    },
+    "width": 500
+  },
+  "show_decorations": false,
+  "show_tooltip": true,
+  "width": 32,
+  "height": 16
+},
+{
+  "type": "minecraft:item",
+  "item": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:hunger",
+            "duration": 3600,
+            "amplifier": 0,
+            "show_icon": true,
+            "ambient": false
+          }
+        ]
+      },
+      "minecraft:custom_name": {
+        "text": "Splash Potion of Hunger",
+        "color": "yellow",
+        "italic": false
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:lore": [
+        {
+          "text": "#CoreBound",
+          "color": "gray"
+        }
+      ]
+    }
+  },
+  "description": {
+    "contents": {
+      "text": "Splash Potion of Hunger = ",
+      "color": "yellow",
+      "bold": true,
+      "extra": [
+        {
+          "text": "Potion of Hunger",
+          "color": "yellow",
+          "bold": true
+        },
+        {
+          "text": " + ",
+          "color": "white",
+          "bold": true
+        },
+        {
+          "text": "Gunpowder",
+          "color": "gray",
+          "bold": true
+        }
+      ]
+    },
+    "width": 500
+  },
+  "show_decorations": false,
+  "show_tooltip": true,
+  "width": 32,
+  "height": 16
+},
+{
+  "type": "minecraft:item",
+  "item": {
+    "id": "minecraft:lingering_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:hunger",
+            "duration": 3600,
+            "amplifier": 0,
+            "show_icon": true,
+            "ambient": false
+          }
+        ]
+      },
+      "minecraft:custom_name": {
+        "text": "Lingering Potion of Hunger",
+        "color": "yellow",
+        "italic": false
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:lore": [
+        {
+          "text": "#CoreBound",
+          "color": "gray"
+        }
+      ]
+    }
+  },
+  "description": {
+    "contents": {
+      "text": "Lingering Potion of Hunger = ",
+      "color": "yellow",
+      "bold": true,
+      "extra": [
+        {
+          "text": "Splash Potion of Hunger",
+          "color": "yellow",
+          "bold": true
+        },
+        {
+          "text": " + ",
+          "color": "white",
+          "bold": true
+        },
+        {
+          "text": "Dragon's Breath",
+          "color": "light_purple",
+          "bold": true
+        }
+      ]
+    },
+    "width": 500
+  },
+  "show_decorations": false,
+  "show_tooltip": true,
+  "width": 32,
+  "height": 16
+}
+
+  ],
+"inputs": [],
+"action": {
+  "label": {
+    "text": "← Back to Potions",
+    "color": "white",
+    "bold": true
+  },
+  "width": 200,
+  "action": {
+    "type": "show_dialog",
+    "dialog": "potions:potions_menu"
+  }
+},
+"can_close_with_escape": false,
+"pause": true
+}

@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:brewing",
+    "input": {
+        "item": "minecraft:potion",
+        "potion_contents": { "potions": "minecraft:water" }
+    },
+    "reagent": { "item": "minecraft:rotten_flesh" },
+    "output": {
+        "id": "minecraft:potion",
+        "components": {
+            "minecraft:potion_contents": {
+                "custom_effects": [
+                    {
+                        "id": "minecraft:hunger",
+                        "duration": 3600,
+                        "amplifier": 0,
+                        "show_icon": true,
+                        "ambient": false
+                    }
+                ]
+            },
+            "minecraft:custom_name": {
+                "text": "Potion of Hunger",
+                "color": "yellow",
+                "italic": false
+            },
+            "minecraft:max_stack_size": 64,
+            "minecraft:lore": [
+                { "text": "#CoreBound", "color": "gray"}
+            ]
+        }
+    }
+}
