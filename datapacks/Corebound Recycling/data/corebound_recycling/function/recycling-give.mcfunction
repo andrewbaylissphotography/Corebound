@@ -13,8 +13,10 @@ recipe give @a corebound_recycling:copper_ingot/copper-spear_blastfurnace
 recipe give @a corebound_recycling:copper_ingot/copper-sword_blastfurnace
 recipe give @a corebound_recycling:copper_ingot/copper-trapdoor_blastfurnace
 recipe give @a corebound_recycling:copper_ingot/lightning_rod_blastfurnace
+tellraw @s "Recycling: Copper Ingot Knowledge Gained"
 
 recipe give @a corebound_recycling:copper_nugget/copper-chain_blastfurnace
+tellraw @s "Recycling: Copper Nugget Knowledge Gained"
 
 recipe give @a corebound_recycling:gold_ingot/golden-axe_blastfurnace
 recipe give @a corebound_recycling:gold_ingot/golden-boots_blastfurnace
@@ -27,6 +29,7 @@ recipe give @a corebound_recycling:gold_ingot/golden-shovel_blastfurnace
 recipe give @a corebound_recycling:gold_ingot/golden-spear_blastfurnace
 recipe give @a corebound_recycling:gold_ingot/golden-sword_blastfurnace
 recipe give @a corebound_recycling:gold_ingot/light-weighted-pressure-plate_blastfurnace
+tellraw @s "Recycling: Gold Ingot Knowledge Gained"
 
 recipe give @a corebound_recycling:iron_ingot/anvil_blastfurnace
 recipe give @a corebound_recycling:iron_ingot/bucket_blastfurnace
@@ -47,9 +50,10 @@ recipe give @a corebound_recycling:iron_ingot/iron-sword_blastfurnace
 recipe give @a corebound_recycling:iron_ingot/iron-trapdoor_blastfurnace
 recipe give @a corebound_recycling:iron_ingot/minecart_blastfurnace
 recipe give @a corebound_recycling:iron_ingot/shears_blastfurnace
+tellraw @s "Recycling: Iron Ingot Knowledge Gained"
 
 recipe give @a minecraft:copper_nugget_from_blasting
 recipe give @a minecraft:gold_nugget_from_blasting
 recipe give @a minecraft:iron_nugget_from_blasting
 
-tellraw @s "recipes given to players"
+# tellraw @s "recipes given to players"

@@ -1,6 +1,6 @@
 {
     "type": "minecraft:blasting",
-    "ingredient": "minecraft:iron_helmet",
+    "ingredient": "minecraft:iron_chestplate",
     "result": { "id": "minecraft:iron_ingot", "count": 8 },
     "experience": 7.2,
     "cookingtime": 7200,

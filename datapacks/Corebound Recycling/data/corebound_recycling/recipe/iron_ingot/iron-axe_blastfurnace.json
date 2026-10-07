@@ -1,6 +1,6 @@
 {
     "type": "minecraft:blasting",
-    "ingredient": "minecraft:iron_shovel",
+    "ingredient": "minecraft:iron_axe",
     "result": { "id": "minecraft:iron_ingot", "count": 3 },
     "experience": 2.7,
     "cookingtime": 2700,

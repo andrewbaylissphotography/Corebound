@@ -15,7 +15,9 @@ The amount returned is based on the item's original metal cost.
 
 > Recycling does not refund non-metal materials used in crafting.
 
-> Horse Armor, Chainmail and Nautilus Armor are not changed by this pack.
+> Horse Armor, Chainmail and Nautilus Armor are not changed by this pack, since you cant craft them in vanilla.
+
+> Damaged anvils are supported. Being used does not reduce their original material value.
 
 ### Copper
 
