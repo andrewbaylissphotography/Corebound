@@ -1,12 +1,15 @@
 {
     "pack": {
-        "description": [
-            { "text": "CoreBound:All-In-One-Tool", "color": "gold" },
-            {
-                "text": "\nhttps://github.com/andrewbaylissphotography/Corebound",
-                "color": "yellow"
-            }
-        ],
+        "description": {
+            "text": "CoreBound:All-In-One-Tool",
+            "color": "gold",
+            "extra": [
+                {
+                    "text": "https://github.com/andrewbaylissphotography/Corebound",
+                    "color": "yellow"
+                }
+            ]
+        },
         "min_format": [101, 1],
         "max_format": 121
     },

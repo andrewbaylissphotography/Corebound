@@ -1,6 +1,6 @@
 # CoreBound All-In-One-Tool
 
-![Minecraft](https://img.shields.io/badge/Minecraft%20Java-26.2-62B47A?logo=minecraft&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft%20Java-26.2--26.3-62B47A?logo=minecraft&logoColor=white)
 ![Datapack](https://img.shields.io/badge/Type-Datapack-blue)
 
 Adds All-In-One Tools for all supported materials.
