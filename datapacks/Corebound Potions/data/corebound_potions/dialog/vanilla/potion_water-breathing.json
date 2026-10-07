@@ -1,9 +1,9 @@
 {
   "type": "minecraft:notice",
   "title": {
-    "text": "Recipe Book: Potions > Hunger"
+    "text": "Recipe Book: Vanilla Potions > Water Breathing"
   },
-  "external_title": "Hunger",
+  "external_title": "Water Breathing",
   "body": [
     {
       "type": "minecraft:item",
@@ -12,15 +12,15 @@
         "count": 1,
         "components": {
           "minecraft:potion_contents": {
-            "potion": "minecraft:water"
+            "potion": "minecraft:awkward"
           }
         }
       },
       "description": {
         "contents": {
-          "text": "Water Bottle",
-          "color": "white",
-          "bold": true
+          "text": "Awkward Potion",
+          "color": "white", 
+          "bold": false
         },
         "width": 200
       },
@@ -34,21 +34,21 @@
       "contents": {
         "text": "+",
         "color": "white",
-        "bold": true
+        "bold": false
       },
       "width": 200
     },
     {
       "type": "minecraft:item",
       "item": {
-        "id": "minecraft:rotten_flesh",
+        "id": "minecraft:pufferfish",
         "count": 1
       },
       "description": {
         "contents": {
-          "text": "Rotten Flesh",
+          "text": "Pufferfish",
           "color": "gold",
-          "bold": true
+          "bold": false
         },
         "width": 200
       },
@@ -62,7 +62,7 @@
       "contents": {
         "text": "↓",
         "color": "white",
-        "bold": true
+        "bold": false
       },
       "width": 200
     },
@@ -75,7 +75,7 @@
           "minecraft:potion_contents": {
             "custom_effects": [
               {
-                "id": "minecraft:hunger",
+                "id": "minecraft:water_breathing",
                 "duration": 3600,
                 "amplifier": 0,
                 "show_icon": true,
@@ -84,24 +84,18 @@
             ]
           },
           "minecraft:custom_name": {
-            "text": "Potion of Hunger",
+            "text": "Potion of Water Breathing",
             "color": "yellow",
             "italic": false
           },
-          "minecraft:max_stack_size": 64,
-          "minecraft:lore": [
-            {
-              "text": "#CoreBound",
-              "color": "gray"
-            }
-          ]
+          "minecraft:max_stack_size": 64
         }
       },
       "description": {
         "contents": {
-          "text": "Potion of Hunger",
+          "text": "Potion of Water Breathing",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         "width": 200
       },
@@ -127,7 +121,7 @@
       "minecraft:potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:hunger",
+            "id": "minecraft:water_breathing",
             "duration": 9600,
             "amplifier": 0,
             "show_icon": true,
@@ -136,100 +130,33 @@
         ]
       },
       "minecraft:custom_name": {
-        "text": "Potion of Hunger Extended",
+        "text": "Potion of Water Breathing Extended",
         "color": "yellow",
         "italic": false
       },
-      "minecraft:max_stack_size": 64,
-      "minecraft:lore": [
-        {
-          "text": "#CoreBound",
-          "color": "gray"
-        }
-      ]
+      "minecraft:max_stack_size": 64
     }
   },
   "description": {
     "contents": {
-      "text": "Potion of Hunger Extended = ",
+      "text": "Potion of Water Breathing Extended = ",
       "color": "yellow",
-      "bold": true,
+      "bold": false,
       "extra": [
         {
-          "text": "Potion of Hunger",
+          "text": "Potion of Water Breathing",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         {
           "text": " + ",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         {
           "text": "Redstone Dust",
           "color": "red",
-          "bold": true
-        }
-      ]
-    },
-    "width": 500
-  },
-  "show_decorations": false,
-  "show_tooltip": true,
-  "width": 32,
-  "height": 16
-},
-{
-  "type": "minecraft:item",
-  "item": {
-    "id": "minecraft:potion",
-    "count": 1,
-    "components": {
-      "minecraft:potion_contents": {
-        "custom_effects": [
-          {
-            "id": "minecraft:hunger",
-            "duration": 1800,
-            "amplifier": 1,
-            "show_icon": true,
-            "ambient": false
-          }
-        ]
-      },
-      "minecraft:custom_name": {
-        "text": "Potion of Hunger II",
-        "color": "yellow",
-        "italic": false
-      },
-      "minecraft:max_stack_size": 64,
-      "minecraft:lore": [
-        {
-          "text": "#CoreBound",
-          "color": "gray"
-        }
-      ]
-    }
-  },
-  "description": {
-    "contents": {
-      "text": "Potion of Hunger II = ",
-      "color": "yellow",
-      "bold": true,
-      "extra": [
-        {
-          "text": "Potion of Hunger",
-          "color": "yellow",
-          "bold": true
-        },
-        {
-          "text": " + ",
-          "color": "white",
-          "bold": true
-        },
-        {
-          "text": "Glowstone Dust",
-          "color": "yellow",
-          "bold": true
+          "bold": false
         }
       ]
     },
@@ -249,7 +176,7 @@
       "minecraft:potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:hunger",
+            "id": "minecraft:water_breathing",
             "duration": 3600,
             "amplifier": 0,
             "show_icon": true,
@@ -258,39 +185,33 @@
         ]
       },
       "minecraft:custom_name": {
-        "text": "Splash Potion of Hunger",
+        "text": "Splash Potion of Water Breathing",
         "color": "yellow",
         "italic": false
       },
-      "minecraft:max_stack_size": 64,
-      "minecraft:lore": [
-        {
-          "text": "#CoreBound",
-          "color": "gray"
-        }
-      ]
+      "minecraft:max_stack_size": 64
     }
   },
   "description": {
     "contents": {
-      "text": "Splash Potion of Hunger = ",
+      "text": "Splash Potion of Water Breathing = ",
       "color": "yellow",
-      "bold": true,
+      "bold": false,
       "extra": [
         {
-          "text": "Potion of Hunger",
+          "text": "Potion of Water Breathing",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         {
           "text": " + ",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         {
           "text": "Gunpowder",
           "color": "gray",
-          "bold": true
+          "bold": false
         }
       ]
     },
@@ -310,7 +231,7 @@
       "minecraft:potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:hunger",
+            "id": "minecraft:water_breathing",
             "duration": 3600,
             "amplifier": 0,
             "show_icon": true,
@@ -319,39 +240,33 @@
         ]
       },
       "minecraft:custom_name": {
-        "text": "Lingering Potion of Hunger",
+        "text": "Lingering Potion of Water Breathing",
         "color": "yellow",
         "italic": false
       },
-      "minecraft:max_stack_size": 64,
-      "minecraft:lore": [
-        {
-          "text": "#CoreBound",
-          "color": "gray"
-        }
-      ]
+      "minecraft:max_stack_size": 64
     }
   },
   "description": {
     "contents": {
-      "text": "Lingering Potion of Hunger = ",
+      "text": "Lingering Potion of Water Breathing = ",
       "color": "yellow",
-      "bold": true,
+      "bold": false,
       "extra": [
         {
-          "text": "Splash Potion of Hunger",
+          "text": "Splash Potion of Water Breathing",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         {
           "text": " + ",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         {
           "text": "Dragon's Breath",
           "color": "light_purple",
-          "bold": true
+          "bold": false
         }
       ]
     },
@@ -369,12 +284,12 @@
   "label": {
     "text": "← Back to Potions",
     "color": "white",
-    "bold": true
+    "bold": false
   },
   "width": 200,
   "action": {
     "type": "show_dialog",
-    "dialog": "potions:potions_menu"
+    "dialog": "corebound_potions:vanilla/potions_menu"
   }
 },
 "can_close_with_escape": false,

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:dialog_list",
+  "body": {
+    "type": "minecraft:item",
+    "item": {
+      "id": "minecraft:brewing_stand"
+    },
+    "show_decorations": false,
+    "show_tooltip": true
+  },
+  "can_close_with_escape": true,
+  "button_width": 180,
+  "columns": 2,
+  "dialogs": [
+    "corebound_potions:potion_absorption",
+    "corebound_potions:potion_blindness",
+    "corebound_potions:potion_haste",
+    "corebound_potions:potion_health_boost",
+    "corebound_potions:potion_hunger",
+    "corebound_potions:potion_mining_fatigue",
+    "corebound_potions:potion_nausea",
+    "corebound_potions:potion_saturation"
+  ],
+  "exit_action": {
+    "label": {
+      "text": "Close"
+    },
+    "width": 200
+  },
+  "title": {
+    "text": "Recipe Book: CoreBound Potions"
+  }
+}

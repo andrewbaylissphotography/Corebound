@@ -5,6 +5,7 @@
 
 Adds custom potions and increases stack limit from 1 to 64.
 Adds recipe book for brewing stand via /dialog potions_menu
+sets vanilla potions to be stackable up to 64
 
 potions added: absorption, haste & health boost.
 inspired by mcMMO Alchemy - https://wiki.mcmmo.org/en/skills/alchemy

@@ -12,14 +12,9 @@
   "button_width": 180,
   "columns": 2,
   "dialogs": [
-    "potions:potion_absorption",
-    "potions:potion_blindness",
-    "potions:potion_haste",
-    "potions:potion_health_boost",
-    "potions:potion_hunger",
-    "potions:potion_mining_fatigue",
-    "potions:potion_saturation",
-    "potions:potion_nausea"
+    "corebound_potions:vanilla/potion_fire-resistance",
+    "corebound_potions:vanilla/potion_slow-falling",
+    "corebound_potions:vanilla/potion_water-breathing"
   ],
   "exit_action": {
     "label": {
@@ -28,6 +23,6 @@
     "width": 200
   },
   "title": {
-    "text": "Recipe Book: Potions"
+    "text": "Recipe Book: Vanilla Potions"
   }
 }

@@ -1,9 +1,9 @@
 {
   "type": "minecraft:notice",
   "title": {
-    "text": "Recipe Book: Potions > Saturation "
+    "text": "Recipe Book: CoreBound Potions > Hunger"
   },
-  "external_title": "Saturation",
+  "external_title": "Hunger",
   "body": [
     {
       "type": "minecraft:item",
@@ -20,7 +20,7 @@
         "contents": {
           "text": "Water Bottle",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         "width": 200
       },
@@ -34,21 +34,21 @@
       "contents": {
         "text": "+",
         "color": "white",
-        "bold": true
+        "bold": false
       },
       "width": 200
     },
     {
       "type": "minecraft:item",
       "item": {
-        "id": "minecraft:fern",
+        "id": "minecraft:rotten_flesh",
         "count": 1
       },
       "description": {
         "contents": {
-          "text": "Fern",
+          "text": "Rotten Flesh",
           "color": "gold",
-          "bold": true
+          "bold": false
         },
         "width": 200
       },
@@ -62,7 +62,7 @@
       "contents": {
         "text": "↓",
         "color": "white",
-        "bold": true
+        "bold": false
       },
       "width": 200
     },
@@ -75,7 +75,7 @@
           "minecraft:potion_contents": {
             "custom_effects": [
               {
-                "id": "minecraft:saturation",
+                "id": "minecraft:hunger",
                 "duration": 3600,
                 "amplifier": 0,
                 "show_icon": true,
@@ -84,7 +84,7 @@
             ]
           },
           "minecraft:custom_name": {
-            "text": "Potion of Saturation",
+            "text": "Potion of Hunger",
             "color": "yellow",
             "italic": false
           },
@@ -99,9 +99,9 @@
       },
       "description": {
         "contents": {
-          "text": "Potion of Saturation",
+          "text": "Potion of Hunger",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         "width": 200
       },
@@ -127,7 +127,7 @@
       "minecraft:potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:saturation",
+            "id": "minecraft:hunger",
             "duration": 9600,
             "amplifier": 0,
             "show_icon": true,
@@ -136,7 +136,7 @@
         ]
       },
       "minecraft:custom_name": {
-        "text": "Potion of Saturation Extended",
+        "text": "Potion of Hunger Extended",
         "color": "yellow",
         "italic": false
       },
@@ -151,24 +151,24 @@
   },
   "description": {
     "contents": {
-      "text": "Potion of Saturation Extended = ",
+      "text": "Potion of Hunger Extended = ",
       "color": "yellow",
-      "bold": true,
+      "bold": false,
       "extra": [
         {
-          "text": "Potion of Saturation",
+          "text": "Potion of Hunger",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         {
           "text": " + ",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         {
           "text": "Redstone Dust",
           "color": "red",
-          "bold": true
+          "bold": false
         }
       ]
     },
@@ -188,7 +188,7 @@
       "minecraft:potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:saturation",
+            "id": "minecraft:hunger",
             "duration": 1800,
             "amplifier": 1,
             "show_icon": true,
@@ -197,7 +197,7 @@
         ]
       },
       "minecraft:custom_name": {
-        "text": "Potion of Saturation II",
+        "text": "Potion of Hunger II",
         "color": "yellow",
         "italic": false
       },
@@ -212,24 +212,24 @@
   },
   "description": {
     "contents": {
-      "text": "Potion of Saturation II = ",
+      "text": "Potion of Hunger II = ",
       "color": "yellow",
-      "bold": true,
+      "bold": false,
       "extra": [
         {
-          "text": "Potion of Saturation",
+          "text": "Potion of Hunger",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         {
           "text": " + ",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         {
           "text": "Glowstone Dust",
           "color": "yellow",
-          "bold": true
+          "bold": false
         }
       ]
     },
@@ -249,7 +249,7 @@
       "minecraft:potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:saturation",
+            "id": "minecraft:hunger",
             "duration": 3600,
             "amplifier": 0,
             "show_icon": true,
@@ -258,7 +258,7 @@
         ]
       },
       "minecraft:custom_name": {
-        "text": "Splash Potion of Saturation",
+        "text": "Splash Potion of Hunger",
         "color": "yellow",
         "italic": false
       },
@@ -273,24 +273,24 @@
   },
   "description": {
     "contents": {
-      "text": "Splash Potion of Saturation = ",
+      "text": "Splash Potion of Hunger = ",
       "color": "yellow",
-      "bold": true,
+      "bold": false,
       "extra": [
         {
-          "text": "Potion of Saturation",
+          "text": "Potion of Hunger",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         {
           "text": " + ",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         {
           "text": "Gunpowder",
           "color": "gray",
-          "bold": true
+          "bold": false
         }
       ]
     },
@@ -310,7 +310,7 @@
       "minecraft:potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:saturation",
+            "id": "minecraft:hunger",
             "duration": 3600,
             "amplifier": 0,
             "show_icon": true,
@@ -319,7 +319,7 @@
         ]
       },
       "minecraft:custom_name": {
-        "text": "Lingering Potion of Saturation",
+        "text": "Lingering Potion of Hunger",
         "color": "yellow",
         "italic": false
       },
@@ -334,24 +334,24 @@
   },
   "description": {
     "contents": {
-      "text": "Lingering Potion of Saturation = ",
+      "text": "Lingering Potion of Hunger = ",
       "color": "yellow",
-      "bold": true,
+      "bold": false,
       "extra": [
         {
-          "text": "Splash Potion of Saturation",
+          "text": "Splash Potion of Hunger",
           "color": "yellow",
-          "bold": true
+          "bold": false
         },
         {
           "text": " + ",
           "color": "white",
-          "bold": true
+          "bold": false
         },
         {
           "text": "Dragon's Breath",
           "color": "light_purple",
-          "bold": true
+          "bold": false
         }
       ]
     },
@@ -369,12 +369,12 @@
   "label": {
     "text": "← Back to Potions",
     "color": "white",
-    "bold": true
+    "bold": false
   },
   "width": 200,
   "action": {
     "type": "show_dialog",
-    "dialog": "potions:potions_menu"
+    "dialog": "corebound_potions:potions_menu"
   }
 },
 "can_close_with_escape": false,
