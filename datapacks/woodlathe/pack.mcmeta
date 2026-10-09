@@ -1,21 +1,13 @@
 {
-	"pack": {
-		"pack_format": 48,
-		"supported_formats": {
-			"min_inclusive": 48,
-			"max_inclusive": 101
-		},
-		"description": [
-			{
-				"text": "CoreBound:Woodlathe",
-				"color": "gold"
-			},
-			{
-				"text": "\nhttps://github.com/andrewbaylissphotography/Corebound",
-				"color": "yellow"
-			}
-		],
-		"min_format": 48,
-		"max_format": 101
-	}
+    "pack": {
+        "description": [
+            { "text": "CoreBound:Wood Lathe", "color": "gold" },
+            {
+                "text": "\nhttps://github.com/andrewbaylissphotography/Corebound",
+                "color": "yellow"
+            }
+        ],
+        "min_format": 57,
+        "max_format": 121
+    }
 }

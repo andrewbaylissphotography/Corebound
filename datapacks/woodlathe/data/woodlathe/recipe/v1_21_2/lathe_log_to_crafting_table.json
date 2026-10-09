@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        "minecraft:oak_log",
+        "minecraft:spruce_log",
+        "minecraft:birch_log",
+        "minecraft:jungle_log",
+        "minecraft:acacia_log",
+        "minecraft:cherry_log",
+        "minecraft:pale_oak_log",
+        "minecraft:dark_oak_log",
+        "minecraft:mangrove_log",
+        "minecraft:poplar_log",
+        "minecraft:warped_stem",
+        "minecraft:crimson_stem"
+    ],
+    "result": { "id": "minecraft:crafting_table" }
+}
