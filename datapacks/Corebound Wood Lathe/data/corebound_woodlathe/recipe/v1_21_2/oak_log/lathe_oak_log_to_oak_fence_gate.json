@@ -1,7 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": [
-    "minecraft:oak_log"
+    "minecraft:oak_log",
+    "minecraft:stripped_oak_log"
   ],
   "result": {
     "id": "minecraft:oak_fence_gate",
