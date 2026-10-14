@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:magenta_concrete_slab",
+        "minecraft:magenta_concrete_slab",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:magenta_concrete",
+        "components": {},
+        "count": 1
+    }
+}

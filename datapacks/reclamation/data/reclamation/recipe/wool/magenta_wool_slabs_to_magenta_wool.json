@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:magenta_wool_slab",
+        "minecraft:magenta_wool_slab",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:magenta_wool",
+        "components": {},
+        "count": 1
+    }
+}

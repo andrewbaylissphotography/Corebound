@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:jungle_stairs",
+        "minecraft:jungle_stairs",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:jungle_planks",
+        "components": {},
+        "count": 3
+    }
+}

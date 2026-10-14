@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:red_sandstone_stairs",
+        "minecraft:red_sandstone_stairs",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:red_sandstone",
+        "components": {},
+        "count": 3
+    }
+}

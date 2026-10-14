@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:brown_concrete_stairs",
+        "minecraft:brown_concrete_stairs",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:brown_concrete",
+        "components": {},
+        "count": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:orange_concrete_stairs",
+        "minecraft:orange_concrete_stairs",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:orange_concrete",
+        "components": {},
+        "count": 3
+    }
+}

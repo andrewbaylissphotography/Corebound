@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:smooth_sandstone_stairs",
+        "minecraft:smooth_sandstone_stairs",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:smooth_sandstone",
+        "components": {},
+        "count": 3
+    }
+}

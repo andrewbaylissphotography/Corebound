@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:dark_prismarine_slab",
+        "minecraft:dark_prismarine_slab",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:dark_prismarine",
+        "components": {},
+        "count": 1
+    }
+}

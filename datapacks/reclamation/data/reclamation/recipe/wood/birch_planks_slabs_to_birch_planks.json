@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:birch_slab",
+        "minecraft:birch_slab",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:birch_planks",
+        "components": {},
+        "count": 1
+    }
+}

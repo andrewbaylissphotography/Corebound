@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "+++",
+        "+++"
+    ],
+    "key": {
+        "#": "minecraft:clay_ball",
+        "+": "minecraft:polished_deepslate_wall"
+    },
+    "result": {
+        "id": "minecraft:polished_deepslate",
+        "components": {},
+        "count": 6
+    }
+}

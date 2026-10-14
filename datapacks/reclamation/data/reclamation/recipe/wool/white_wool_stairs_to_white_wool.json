@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:white_wool_stairs",
+        "minecraft:white_wool_stairs",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:white_wool",
+        "components": {},
+        "count": 3
+    }
+}

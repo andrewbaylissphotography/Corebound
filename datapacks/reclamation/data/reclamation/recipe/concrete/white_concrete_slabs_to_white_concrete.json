@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:white_concrete_slab",
+        "minecraft:white_concrete_slab",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:white_concrete",
+        "components": {},
+        "count": 1
+    }
+}

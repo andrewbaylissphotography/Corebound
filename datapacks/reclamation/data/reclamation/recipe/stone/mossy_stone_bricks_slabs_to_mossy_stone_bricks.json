@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:mossy_stone_brick_slab",
+        "minecraft:mossy_stone_brick_slab",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:mossy_stone_bricks",
+        "components": {},
+        "count": 1
+    }
+}

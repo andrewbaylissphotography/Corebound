@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "+++",
+        "+++"
+    ],
+    "key": {
+        "#": "minecraft:clay_ball",
+        "+": "minecraft:deepslate_brick_wall"
+    },
+    "result": {
+        "id": "minecraft:deepslate_bricks",
+        "components": {},
+        "count": 6
+    }
+}

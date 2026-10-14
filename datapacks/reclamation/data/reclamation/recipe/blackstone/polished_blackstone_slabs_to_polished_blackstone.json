@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:polished_blackstone_slab",
+        "minecraft:polished_blackstone_slab",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:polished_blackstone",
+        "components": {},
+        "count": 1
+    }
+}

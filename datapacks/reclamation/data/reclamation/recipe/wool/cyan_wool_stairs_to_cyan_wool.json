@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:cyan_wool_stairs",
+        "minecraft:cyan_wool_stairs",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:cyan_wool",
+        "components": {},
+        "count": 3
+    }
+}

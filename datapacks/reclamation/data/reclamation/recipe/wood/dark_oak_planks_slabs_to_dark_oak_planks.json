@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:dark_oak_slab",
+        "minecraft:dark_oak_slab",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:dark_oak_planks",
+        "components": {},
+        "count": 1
+    }
+}

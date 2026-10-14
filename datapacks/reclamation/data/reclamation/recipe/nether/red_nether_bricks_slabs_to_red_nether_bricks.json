@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:red_nether_brick_slab",
+        "minecraft:red_nether_brick_slab",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:red_nether_bricks",
+        "components": {},
+        "count": 1
+    }
+}

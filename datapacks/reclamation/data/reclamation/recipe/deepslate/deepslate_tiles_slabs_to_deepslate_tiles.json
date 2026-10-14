@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:deepslate_tile_slab",
+        "minecraft:deepslate_tile_slab",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:deepslate_tiles",
+        "components": {},
+        "count": 1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:cherry_stairs",
+        "minecraft:cherry_stairs",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:cherry_planks",
+        "components": {},
+        "count": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:green_wool_slab",
+        "minecraft:green_wool_slab",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:green_wool",
+        "components": {},
+        "count": 1
+    }
+}

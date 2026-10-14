@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:clay"
+    ],
+    "result": {
+        "id": "minecraft:clay_ball",
+        "components": {},
+        "count": 4
+    }
+}

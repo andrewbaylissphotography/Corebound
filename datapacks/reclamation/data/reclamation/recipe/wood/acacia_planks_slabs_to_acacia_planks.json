@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:acacia_slab",
+        "minecraft:acacia_slab",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:acacia_planks",
+        "components": {},
+        "count": 1
+    }
+}

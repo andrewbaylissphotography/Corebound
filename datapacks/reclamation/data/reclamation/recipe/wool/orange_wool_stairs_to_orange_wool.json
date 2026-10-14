@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:orange_wool_stairs",
+        "minecraft:orange_wool_stairs",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:orange_wool",
+        "components": {},
+        "count": 3
+    }
+}

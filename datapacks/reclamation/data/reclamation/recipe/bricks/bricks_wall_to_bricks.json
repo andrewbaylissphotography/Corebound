@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "+++",
+        "+++"
+    ],
+    "key": {
+        "#": "minecraft:clay_ball",
+        "+": "minecraft:brick_wall"
+    },
+    "result": {
+        "id": "minecraft:bricks",
+        "components": {},
+        "count": 6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:poplar_stairs",
+        "minecraft:poplar_stairs",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:poplar_planks",
+        "components": {},
+        "count": 3
+    }
+}

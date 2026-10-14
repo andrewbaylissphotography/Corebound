@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:tuff_brick_stairs",
+        "minecraft:tuff_brick_stairs",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:tuff_bricks",
+        "components": {},
+        "count": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:deepslate_brick_stairs",
+        "minecraft:deepslate_brick_stairs",
+        "minecraft:clay_ball",
+        "minecraft:clay_ball"
+    ],
+    "result": {
+        "id": "minecraft:deepslate_bricks",
+        "components": {},
+        "count": 3
+    }
+}

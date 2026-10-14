@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:blue_wool_slab",
+        "minecraft:blue_wool_slab",
+        "minecraft:string",
+        "minecraft:string"
+    ],
+    "result": {
+        "id": "minecraft:blue_wool",
+        "components": {},
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "+++",
+        "+++"
+    ],
+    "key": {
+        "#": "minecraft:clay_ball",
+        "+": "minecraft:prismarine_wall"
+    },
+    "result": {
+        "id": "minecraft:prismarine",
+        "components": {},
+        "count": 6
+    }
+}
