@@ -1,5 +1,8 @@
 # CoreBound Item Upgrades
 
+![Minecraft](https://img.shields.io/badge/Minecraft%20Java-1.21.2--26.3-62B47A?logo=minecraft&logoColor=white)
+![Datapack](https://img.shields.io/badge/Type-Datapack-blue)
+
 allows items to be upgrades throught material tiers. gold -> iron -> diamond.
 uses the smithing table and keeps and exisiting enchantments on the tool.
 

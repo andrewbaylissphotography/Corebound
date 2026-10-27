@@ -1,0 +1,2 @@
+tellraw @a [{"text": "[Corebound: Smithing Table] ", "color": "gold"}, {"text": "Item Upgrades added for ", "color": "yellow"}, {"text": "Gold→Iron", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: Smithing Table] ", "color": "gold"}, {"text": "Item Upgrades added for ", "color": "yellow"}, {"text": "Iron→Diamond", "color": "aqua"}]
