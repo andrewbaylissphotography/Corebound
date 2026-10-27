@@ -6,9 +6,6 @@
         "minecraft:clay_ball",
         "minecraft:clay_ball"
     ],
-    "result": {
-        "id": "minecraft:purpur_block",
-        "components": {},
-        "count": 1
-    }
+    "result": { "id": "minecraft:purpur_block", "components": {}, "count": 1 },
+    "group": "purpur_block"
 }

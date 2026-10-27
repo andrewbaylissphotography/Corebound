@@ -1,10 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "###",
-        "+++",
-        "+++"
-    ],
+    "pattern": ["###", "+++", "+++"],
     "key": {
         "#": "minecraft:clay_ball",
         "+": "minecraft:polished_blackstone_brick_wall"
@@ -13,5 +9,6 @@
         "id": "minecraft:polished_blackstone_bricks",
         "components": {},
         "count": 6
-    }
+    },
+    "group": "polished_blackstone_bricks"
 }

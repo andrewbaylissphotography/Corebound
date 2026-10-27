@@ -1,6 +1,6 @@
 # CoreBound Reclamation
 
-![Minecraft](https://img.shields.io/badge/Minecraft%20Java-26.3-62B47A?logo=minecraft&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft%20Java-1.21.9--26.3-62B47A?logo=minecraft&logoColor=white)
 ![Datapack](https://img.shields.io/badge/Type-Datapack-blue)
 
 CoreBound Reclamation lets you combine slabs, stairs, and walls back into their original full blocks, helping you reclaim leftover materials and save inventory space.

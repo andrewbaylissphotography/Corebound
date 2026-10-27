@@ -6,9 +6,6 @@
         "minecraft:clay_ball",
         "minecraft:clay_ball"
     ],
-    "result": {
-        "id": "minecraft:quartz_block",
-        "components": {},
-        "count": 3
-    }
+    "result": { "id": "minecraft:quartz_block", "components": {}, "count": 3 },
+    "group": "quartz_block"
 }

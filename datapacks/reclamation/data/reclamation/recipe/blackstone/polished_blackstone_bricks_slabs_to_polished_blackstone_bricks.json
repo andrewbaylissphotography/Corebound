@@ -10,5 +10,6 @@
         "id": "minecraft:polished_blackstone_bricks",
         "components": {},
         "count": 1
-    }
+    },
+    "group": "polished_blackstone_bricks"
 }

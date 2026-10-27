@@ -10,5 +10,6 @@
         "id": "minecraft:polished_blackstone",
         "components": {},
         "count": 1
-    }
+    },
+    "group": "polished_blackstone"
 }
