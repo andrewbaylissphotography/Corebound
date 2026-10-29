@@ -1,13 +1,14 @@
 {
     "pack": {
-        "pack_format": 57,
         "description": [
             { "text": "CoreBound:Upgrades", "color": "gold" },
-            {
-                "text": "\n1.21.2 to 26.3",
-                "color": "yellow"
-            }
+            { "text": "\n1.21.2 to 26.3", "color": "yellow" }
         ],
+        "pack_format": 121,
+        "supported_formats": {
+            "min_inclusive": 57,
+            "max_inclusive": 121
+        },
         "min_format": 57,
         "max_format": 121
     }

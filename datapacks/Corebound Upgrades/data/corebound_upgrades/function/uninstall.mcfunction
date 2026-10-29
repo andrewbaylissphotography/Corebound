@@ -7,7 +7,6 @@
 # Cancel any scheduled CoreBound: Recipes functions
 
 # Remove custom recipes
-function corebound_upgrades:v1_21_0_remove
 function corebound_upgrades:v1_21_2_remove
 
 
