@@ -20,8 +20,8 @@ recipe take @a corebound_upgrades:upgrade_shovel_iron_to_diamond
 recipe take @a corebound_upgrades:upgrade_sword_gold_to_iron
 recipe take @a corebound_upgrades:upgrade_sword_iron_to_diamond
 
-tellraw @s [{"text": "[Corebound: Smithing Table] ", "color": "gold"}, {"text": "Item corebound_upgrades removed for ", "color": "red"}, {"text": "Gold→Iron", "color": "aqua"}]
-tellraw @s [{"text": "[Corebound: Smithing Table] ", "color": "gold"}, {"text": "Item corebound_upgrades removed for ", "color": "red"}, {"text": "Iron→Diamond", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: Upgrades] ", "color": "gold"}, {"text": "Item upgrades removed for ", "color": "red"}, {"text": "Gold→Iron", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: Upgrades] ", "color": "gold"}, {"text": "Item upgrades removed for ", "color": "red"}, {"text": "Iron→Diamond", "color": "aqua"}]
 
 
 

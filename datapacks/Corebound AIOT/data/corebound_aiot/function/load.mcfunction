@@ -1,0 +1,2 @@
+function corebound_aiot:aiot_give
+function corebound_aiot:success

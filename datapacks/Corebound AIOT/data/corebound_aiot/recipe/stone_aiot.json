@@ -41,5 +41,6 @@
             "minecraft:max_damage": 524
         },
         "count": 1
-    }
+    },
+    "show_notification": true
 }

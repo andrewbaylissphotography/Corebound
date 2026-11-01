@@ -2,16 +2,16 @@
     "type": "minecraft:crafting_shapeless",
     "category": "equipment",
     "ingredients": [
-        "minecraft:golden_shovel",
-        "minecraft:golden_pickaxe",
-        "minecraft:golden_axe",
-        "minecraft:golden_hoe"
+        "minecraft:copper_shovel",
+        "minecraft:copper_pickaxe",
+        "minecraft:copper_axe",
+        "minecraft:copper_hoe"
     ],
     "result": {
-        "id": "minecraft:golden_axe",
+        "id": "minecraft:copper_axe",
         "components": {
             "minecraft:item_name": {
-                "text": "Golden AIOT",
+                "text": "Copper AIOT",
                 "color": "dark_aqua",
                 "italic": false
             },
@@ -22,11 +22,7 @@
                         "italic": false,
                         "color": "gray"
                     },
-                    {
-                        "text": "128",
-                        "italic": false,
-                        "color": "white"
-                    }
+                    { "text": "760", "italic": false, "color": "white" }
                 ],
                 [
                     {
@@ -37,9 +33,10 @@
                 ],
                 [{ "text": "#CoreBound", "color": "gray" }]
             ],
-            "minecraft:item_model": "corebound_rp:golden-aiot",
-            "minecraft:max_damage": 128
+            "minecraft:item_model": "corebound_rp:copper-aiot",
+            "minecraft:max_damage": 760
         },
         "count": 1
-    }
+    },
+    "show_notification": true
 }

@@ -2,16 +2,16 @@
     "type": "minecraft:crafting_shapeless",
     "category": "equipment",
     "ingredients": [
-        "minecraft:diamond_shovel",
-        "minecraft:diamond_pickaxe",
-        "minecraft:diamond_axe",
-        "minecraft:diamond_hoe"
+        "minecraft:wooden_shovel",
+        "minecraft:wooden_pickaxe",
+        "minecraft:wooden_axe",
+        "minecraft:wooden_hoe"
     ],
     "result": {
-        "id": "minecraft:diamond_axe",
+        "id": "minecraft:wooden_axe",
         "components": {
             "minecraft:item_name": {
-                "text": "Diamond AIOT",
+                "text": "Wooden AIOT",
                 "color": "dark_aqua",
                 "italic": false
             },
@@ -23,7 +23,7 @@
                         "color": "gray"
                     },
                     {
-                        "text": "6244",
+                        "text": "236",
                         "italic": false,
                         "color": "white"
                     }
@@ -37,9 +37,10 @@
                 ],
                 [{ "text": "#CoreBound", "color": "gray" }]
             ],
-            "minecraft:item_model": "corebound_rp:diamond-aiot",
-            "minecraft:max_damage": 6244
+            "minecraft:item_model": "corebound_rp:wooden-aiot",
+            "minecraft:max_damage": 236
         },
         "count": 1
-    }
+    },
+    "show_notification": true
 }

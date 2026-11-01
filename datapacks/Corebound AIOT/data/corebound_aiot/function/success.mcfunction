@@ -1,0 +1,7 @@
+tellraw @a [{"text": "[Corebound: AIOT] ", "color": "gold"}, {"text": "Learnt AIOT ", "color": "yellow"}, {"text": "Wooden", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: AIOT] ", "color": "gold"}, {"text": "Learnt AIOT ", "color": "yellow"}, {"text": "Stone", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: AIOT] ", "color": "gold"}, {"text": "Learnt AIOT ", "color": "yellow"}, {"text": "Copper", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: AIOT] ", "color": "gold"}, {"text": "Learnt AIOT ", "color": "yellow"}, {"text": "Iron", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: AIOT] ", "color": "gold"}, {"text": "Learnt AIOT ", "color": "yellow"}, {"text": "Golden", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: AIOT] ", "color": "gold"}, {"text": "Learnt AIOT ", "color": "yellow"}, {"text": "Diamond", "color": "aqua"}]
+tellraw @a [{"text": "[Corebound: AIOT] ", "color": "gold"}, {"text": "Learnt AIOT ", "color": "yellow"}, {"text": "Netherite", "color": "aqua"}]

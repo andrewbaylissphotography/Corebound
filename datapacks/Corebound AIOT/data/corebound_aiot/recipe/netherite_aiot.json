@@ -2,16 +2,16 @@
     "type": "minecraft:crafting_shapeless",
     "category": "equipment",
     "ingredients": [
-        "minecraft:copper_shovel",
-        "minecraft:copper_pickaxe",
-        "minecraft:copper_axe",
-        "minecraft:copper_hoe"
+        "minecraft:netherite_shovel",
+        "minecraft:netherite_pickaxe",
+        "minecraft:netherite_axe",
+        "minecraft:netherite_hoe"
     ],
     "result": {
-        "id": "minecraft:copper_axe",
+        "id": "minecraft:netherite_axe",
         "components": {
             "minecraft:item_name": {
-                "text": "Copper AIOT",
+                "text": "Netherite AIOT",
                 "color": "dark_aqua",
                 "italic": false
             },
@@ -23,7 +23,7 @@
                         "color": "gray"
                     },
                     {
-                        "text": "760",
+                        "text": "8124",
                         "italic": false,
                         "color": "white"
                     }
@@ -37,9 +37,10 @@
                 ],
                 [{ "text": "#CoreBound", "color": "gray" }]
             ],
-            "minecraft:item_model": "corebound_rp:copper-aiot",
-            "minecraft:max_damage": 760
+            "minecraft:item_model": "corebound_rp:netherite-aiot",
+            "minecraft:max_damage": 8124
         },
         "count": 1
-    }
+    },
+    "show_notification": true
 }

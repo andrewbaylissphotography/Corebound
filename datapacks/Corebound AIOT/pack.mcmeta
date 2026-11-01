@@ -1,22 +1,29 @@
 {
     "pack": {
-        "description": {
-            "text": "CoreBound:All-In-One-Tool",
-            "color": "gold",
-            "extra": [
-                {
-                    "text": "https://github.com/andrewbaylissphotography/Corebound",
-                    "color": "yellow"
-                }
-            ]
-        },
-        "min_format": [101, 1],
+        "description": [
+            {
+                "text": "CoreBound:All-In-One-Tool",
+                "color": "gold"
+            },
+            {
+                "text": "\n26.1 to 26.3",
+                "color": "yellow"
+            }
+        ],
+        "min_format": [
+            101,
+            1
+        ],
         "max_format": 121
     },
     "required_resourcepack": "corebound_rp",
     "overlays": {
         "entries": [
-            { "directory": "26.3", "min_format": 121, "max_format": 121 }
+            {
+                "directory": "26.3",
+                "min_format": 121,
+                "max_format": 121
+            }
         ]
     }
 }

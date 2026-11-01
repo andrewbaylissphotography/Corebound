@@ -2,16 +2,16 @@
     "type": "minecraft:crafting_shapeless",
     "category": "equipment",
     "ingredients": [
-        "minecraft:netherite_shovel",
-        "minecraft:netherite_pickaxe",
-        "minecraft:netherite_axe",
-        "minecraft:netherite_hoe"
+        "minecraft:iron_shovel",
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_axe",
+        "minecraft:iron_hoe"
     ],
     "result": {
-        "id": "minecraft:netherite_axe",
+        "id": "minecraft:iron_axe",
         "components": {
             "minecraft:item_name": {
-                "text": "Netherite AIOT",
+                "text": "Iron AIOT",
                 "color": "dark_aqua",
                 "italic": false
             },
@@ -23,7 +23,7 @@
                         "color": "gray"
                     },
                     {
-                        "text": "8124",
+                        "text": "1000",
                         "italic": false,
                         "color": "white"
                     }
@@ -37,9 +37,10 @@
                 ],
                 [{ "text": "#CoreBound", "color": "gray" }]
             ],
-            "minecraft:item_model": "corebound_rp:netherite-aiot",
-            "minecraft:max_damage": 8124
+            "minecraft:item_model": "corebound_rp:iron-aiot",
+            "minecraft:max_damage": 1000
         },
         "count": 1
-    }
+    },
+    "show_notification": true
 }

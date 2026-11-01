@@ -10,4 +10,4 @@
 function corebound_upgrades:v1_21_2_remove
 
 
-tellraw @a [{"text":"[Corebound: Smithing Table] ", "color": "gold"}, {"text": "Uninstalled cleanly.","color":"yellow"}]
+tellraw @a [{"text":"[Corebound: Upgrades] ", "color": "gold"}, {"text": "Uninstalled cleanly.","color":"yellow"}]
